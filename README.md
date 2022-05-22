@@ -2,13 +2,12 @@
 
 A new Flutter project.
 
-##Grupo
+# Grupo
 
-John Pablo
-Carlos Toledo
-Victor Macabu
+John Pablo\
+Carlos Toledo\
+Victor Macabu\
 Luiz Gustavo Santos da Costa
-
 
 ## Getting Started
 
