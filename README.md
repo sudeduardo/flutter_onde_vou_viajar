@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-#Grupo
+##Grupo
 
 John Pablo
 Carlos Toledo
