@@ -7,7 +7,8 @@ A new Flutter project.
 John Pablo\
 Carlos Toledo\
 Victor Macabu\
-Luiz Gustavo Santos da Costa
+Luiz Gustavo Santos da Costa\
+Enzo Garrido Ceglio\
 
 ## Getting Started
 
